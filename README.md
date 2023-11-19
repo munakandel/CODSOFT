@@ -1,7 +1,7 @@
-Overview
+Overview:
 This repository contains the completed tasks for the CODSOFT Data Science Internship.
 
-Tasks Completed
+Tasks Completed:
 Movie Rating Prediction with Python
 Implemented a model to predict movie ratings based on genre, director, and actors.
 Utilized regression techniques for analysis.
