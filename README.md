@@ -2,12 +2,11 @@ Overview:
 This repository contains the completed tasks for the CODSOFT Data Science Internship.
 
 Tasks Completed:
-Movie Rating Prediction with Python
+Movie Rating Prediction with Python-
 Implemented a model to predict movie ratings based on genre, director, and actors.
-Utilized regression techniques for analysis.
 
-Iris Flower Classification 
+Iris Flower Classification-
 Developed a model to classify Iris flowers into different species using their measurements.
 
-Credit Card Fraud Detection 
+Credit Card Fraud Detection- 
 Built a model to identify fraudulent credit card transactions.
